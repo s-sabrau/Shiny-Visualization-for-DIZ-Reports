@@ -52,7 +52,7 @@ To get started with DIZ Visualizer, follow these steps:
 
 ## Where Users Can Get Help with Your Project
 
-For any questions or issues, please refer to the project's [Issues](https://github.com/yourusername/diz-visualizer/issues) section on GitHub. You can also contact the maintainer directly at [youremail@example.com](mailto:youremail@example.com).
+For any questions or issues, please refer to the project's [Issues]() section on GitHub. You can also contact the maintainer directly at [).
 
 ## Who Maintains and Contributes to the Project
 
@@ -60,7 +60,3 @@ The DIZ Visualizer project is maintained by [Namen](https://github.com/unser use
 
 ## Additional Information
 
-
----
-
-Feel free to customize the placeholders like `yourusername`, `yourname`, and `youremail@example.com` with your actual GitHub username and contact information. Additionally, you can create and link the `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` files as suggested to further enhance your repository's documentation and contribution guidelines.
