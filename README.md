@@ -50,13 +50,5 @@ To get started with DIZ Visualizer, follow these steps:
    - **Combined Histogram Tab**: Select and combine multiple histograms.
    - **Statistics Tab**: View statistical data about the histograms.
 
-## Where Users Can Get Help with Your Project
 
-For any questions or issues, please refer to the project's [Issues]() section on GitHub. You can also contact the maintainer directly at [).
-
-## Who Maintains and Contributes to the Project
-
-The DIZ Visualizer project is maintained by [Namen](https://github.com/unser usernames). Contributions are welcome! 
-
-## Additional Information
 
