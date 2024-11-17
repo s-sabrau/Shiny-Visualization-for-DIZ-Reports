@@ -185,8 +185,8 @@ server <- function(input, output, session) {
         output[[paste0("plot_", plotName)]] <- renderPlot({
           data <- plots[[plotName]]  # Daten für den aktuellen Plot erhalten
           
-          categories <- sapply(data, function(x) x$Category$`@value`)  # Kategorien extrahieren
-          counts <- as.numeric(sapply(data, function(x) x$Count$`@value`))  # Zählwerte extrahieren
+        categories <- data$Category$`@value`  # Kategorien extrahieren # Kategorien extrahieren
+          counts <- data$Count$`@value`  # Zählwerte extrahieren # Zählwerte extrahieren
           
           df <- data.frame(Category = categories, Count = counts)  # Datenrahmen erstellen
           
